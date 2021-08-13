@@ -5,5 +5,5 @@ Build on:
 * Django 3.2
 
 
-execute: requirements.txt
+execute: requirements.txt ->
 pip3.9 install -r requirements.txt
